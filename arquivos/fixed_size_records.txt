@@ -1,0 +1,3 @@
+Manager             Johnathan Doe Johnso5000.00
+Staff Engineer      Jane Smith          6000.00
+Data Analysis SpeciaMike JohnsonMike Johnson        5500.00
